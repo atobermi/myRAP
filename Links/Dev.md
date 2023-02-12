@@ -18,6 +18,7 @@
 
 # Tutorials
 
+- [abap-platform-rap-workshops](https://github.com/SAP-samples/abap-platform-rap-workshops)
 - [RAP prepare](https://developers.sap.com/tutorials/fiori-tools-rap-prepare-service.html)
 - [BTP TrialDeploy](https://developers.sap.com/tutorials/abap-environment-deploy-cf-production.html)
 
